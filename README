@@ -1,0 +1,13 @@
+This is a template I created for my blog out, inspired by an artile in 
+Alist Apart titled "Switchy McLayout: An Adaptive Layout Technique"
+
+    http://www.alistapart.com/articles/switchymclayout/
+    
+My goal was to define a single html page that would result in a blog with 
+different layouts, depending upon the browser resolution.  Browser resolution 
+is captured by styleSheetResize.js, which then sets the body class to the 
+approriate css class.
+
+You can view the original version as it appeared on my blog:
+    
+    http://www.openpolitics.com/2010/02/27/adaptive-layout-multi-resolution-blog-template.html
